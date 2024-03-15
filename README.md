@@ -1,4 +1,4 @@
-Image Classification with CNN
+Image Classification with CNN:
 
 1. Training the model
 2. Evaluating the model
