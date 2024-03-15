@@ -2,6 +2,7 @@ Image Classification with CNN:
 
 1. Training the model
 2. Evaluating the model
+   
 Programming elements:
 
 1. About CNN
